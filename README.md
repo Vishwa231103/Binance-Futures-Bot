@@ -37,7 +37,9 @@ Create a `.env` file in your project folder:
 
 
 BINANCE_API_KEY=your_key_here
+
 BINANCE_API_SECRET=your_secret_here
+
 BINANCE_BASE_URL=https://testnet.binancefuture.com
 
 
